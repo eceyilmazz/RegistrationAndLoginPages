@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "ece",
+      "name": "Ece Yılmaz",
+      "password": "123",
+      "email": "deneme@deneme.com",
+      "phone": "+905061845247",
+      "city": "ankara",
+      "address": "",
+      "tckn": "33333333333"
+    },
+    {
+      "id": "asd",
+      "name": "Aylin Demir",
+      "password": "123",
+      "email": "deneme@deneme.com",
+      "phone": "+905061845247",
+      "city": "izmir",
+      "address": "",
+      "tckn": "55555555555"
+    },
+    {
+      "id": "ylzece",
+      "name": "Ece Yılmaz",
+      "password": "123",
+      "email": "den@den.com",
+      "phone": "+905061452315",
+      "city": "istanbul",
+      "address": "",
+      "tckn": "12345678912"
+    }
+  ]
+}
